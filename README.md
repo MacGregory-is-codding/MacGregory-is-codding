@@ -1,3 +1,8 @@
+Hi! My name is Andrii Skorokhod, glad to see you viewing my profile) Here is list of my projects:
+
+* **Pyatnashki**
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacGregory-is-codding&theme=tokyonight)
 
 <!--
