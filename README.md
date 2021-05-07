@@ -10,7 +10,7 @@ Hi! My name is Andrii Skorokhod, glad to see you viewing my profile) Here is lis
 
 3. **[ZhabaGetter](https://github.com/MacGregory-is-codding/ZhabaGetter)**
     * Language: Ring
-    * Info: GUI (Qt lib) abb that gets random frog/toad from unsplash api. I just wanted to try Ring and MVC pattern
+    * Info: GUI (Qt lib) app that gets random frog/toad from unsplash api. I just wanted to try Ring and MVC pattern
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacGregory-is-codding&theme=tokyonight)
 
