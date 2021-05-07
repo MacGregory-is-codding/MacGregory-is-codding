@@ -1,7 +1,8 @@
 Hi! My name is Andrii Skorokhod, glad to see you viewing my profile) Here is list of my projects:
 
-* **Pyatnashki**
-
+* **[Pyatnashki](https://github.com/MacGregory-is-codding/Pyatnashki)**
+Language: C++
+Info: Console game Pyatnashki ([rules](https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%B0_%D0%B2_15)). Made it on order
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacGregory-is-codding&theme=tokyonight)
 
