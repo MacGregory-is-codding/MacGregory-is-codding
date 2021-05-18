@@ -14,6 +14,14 @@ Hi! My name is Andrii Skorokhod, glad to see you viewing my profile) Here is lis
     * Language: Ring
     * Info: GUI (Qt lib) app that gets random frog/toad from unsplash api. I just wanted to try Ring and MVC pattern
 
+
+4. **[RGBat](https://github.com/MacGregory-is-codding/RGBat)**
+    * Language: Batch
+    * Info: Just simple bat garland ._.
+
+
+
+
 ## Top Langs in my profile:
 
 
